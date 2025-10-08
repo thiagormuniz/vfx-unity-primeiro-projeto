@@ -39105,7 +39105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7819854232802467014}
   m_Layer: 0
-  m_Name: vfx_AoE_v2_Arcane
+  m_Name: vfx_AoE_Arcane_V2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
